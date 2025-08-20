@@ -6,6 +6,7 @@ Tecnicatura Universitaria en Programación
 ✨ Estudiante
 Nombre: Mardones, Marcos Armando 
 Comisión: M2025-8
+
 📂 Descripción del Repositorio
 Este repositorio almacena todos los trabajos prácticos realizados durante la cursada de Programación 1 .
 
